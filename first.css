@@ -1,0 +1,54 @@
+/* h3{
+    color: ;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 100;
+    color: grey;
+    border-bottom: 2px solid grey;
+    padding-bottom: 10px;
+} */
+
+/* ul {
+    background-color: #ddd;
+    margin: auto 20px;
+    width:400px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+
+}
+ul li {
+    width:60px;
+    height:60px;
+    transition: .3s;
+    opacity:.4;
+}
+ul li.active,
+ul li:hover {
+    opacity:1;
+}
+ul li:first-child {
+    background-color: red;
+}
+
+ul li:nth-child(2) {
+    background-color: green;
+}
+ul li:nth-child(3) {
+    background-color: blue;
+}
+ul li:nth-child(4) {
+    background-color: black;
+}
+
+.experiment {
+    background-color: red;
+    width:400px;
+    height:300px;
+    margin:30px auto;
+
+} */
+
+

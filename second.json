@@ -1,0 +1,42 @@
+[
+{
+    "id":1,
+    "title":"title1",
+    "body":"article number 1 body",
+    "category":"html",
+    "author":"ali"
+
+},
+{
+    "id":2,
+    "title":"title2",
+    "body":"article number 2 body",
+    "category":"css",
+    "author":"mahmoud"
+
+},
+{
+    "id":3,
+    "title":"title3",
+    "body":"article number 3 body",
+    "category":"js",
+    "author":"eiad"
+
+},
+{
+    "id":4,
+    "title":"title4",
+    "body":"article number 4 body",
+    "category":"bootstrab",
+    "author":"salem"
+
+},
+{
+    "id":5,
+    "title":"title5",
+    "body":"article number 5 body",
+    "category":"cat",
+    "author":"amir"
+
+}
+]
